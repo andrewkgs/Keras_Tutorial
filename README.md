@@ -8,7 +8,7 @@ We hope this tutorial will help you survive the programming assignments in this 
 ### Contents
 
 * [Keras Installation]()
-* [Keras tutorial]()
+* [Keras Tutorial]()
 
 ### Contact
 
@@ -18,3 +18,4 @@ If you have further questions, please contact:
 ### External Links
 
 * [Keras documentation](https://keras.io/)
+* [Keras sample code](https://github.com/keras-team/keras/tree/master/examples)
