@@ -7,8 +7,8 @@ We hope this tutorial will help you survive the programming assignments in this 
 
 ### Contents
 
-* [Keras Installation]()
-* [Keras Tutorial]()
+* [Keras Introduction and Installation]()
+* [Keras Practice]()
 
 ### Contact
 
