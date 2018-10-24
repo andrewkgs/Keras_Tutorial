@@ -19,3 +19,5 @@ If you have further questions, please contact:
 
 * [Keras documentation](https://keras.io/)
 * [Keras sample code](https://github.com/keras-team/keras/tree/master/examples)
+* [Keras tutorial document in Chinese](https://fgc.stpi.narl.org.tw/activity/videoDetail/4b1141305d9cd231015d9d03cfd10027)
+* [IML Keras workshop](https://indico.cern.ch/event/595059/contributions/2522193/attachments/1430921/2197986/slides_iml_keras_workshop.pdf)
