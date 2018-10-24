@@ -7,7 +7,7 @@ We hope this tutorial will help you survive the programming assignments in this 
 
 ### Contents
 
-* [Keras Introduction and Installation]()
+* [Keras Introduction and Installation](https://github.com/andrewkgs/Keras_Tutorial/blob/master/Keras_Tutorial.pdf)
 * [Keras DNN implementation](https://github.com/andrewkgs/Keras_Tutorial/blob/master/DNN.ipynb)
 * [Keras CNN implementation](https://github.com/andrewkgs/Keras_Tutorial/blob/master/CNN.ipynb)
 
