@@ -8,7 +8,7 @@ We hope this tutorial will help you survive the programming assignments in this 
 ### Contents
 
 * [Keras Installation]()
-* [Keras tutorial](https://github.com/mediaic/CV2018_Tutorial/blob/master/python_tutorial.ipynb)
+* [Keras tutorial]()
 
 ### Contact
 
